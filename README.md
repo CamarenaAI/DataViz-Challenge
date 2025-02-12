@@ -26,8 +26,8 @@ This project was developed for the **DataViz Challenge** competition, with the a
 
 ---
 
-## 🚀 Instalación y Uso  
-**Clonar el repositorio**  
+## 🚀 Installation and Use
+**Clone the repository** 
 
     git clone https://github.com/CamarenaAI/DataViz-Challenge.git
     cd DataViz-Challenge
