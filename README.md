@@ -6,6 +6,8 @@
 
 📌 **Technologies used:** **Jupyter Notebooks, Python (Pandas), Power BI**
 
+![dataviz_challenge_dashboard](./images/data_visualization.png)
+
 ---
 
 ## 📌 Description
