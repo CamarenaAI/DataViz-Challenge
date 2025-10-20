@@ -1,8 +1,8 @@
 <p align="right">
-  <a href="./README.md">
+  <a href="./README.es.md">
     <img alt="Español" src="https://img.shields.io/badge/ES-Español-blue">
   </a>
-  <a href="./README.en.md">
+  <a href="./README.md">
     <img alt="English" src="https://img.shields.io/badge/EN-English-lightgrey">
   </a>
 </p>
