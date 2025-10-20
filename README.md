@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="./README.md">
+    <img alt="Español" src="https://img.shields.io/badge/ES-Español-blue">
+  </a>
+  <a href="./README.en.md">
+    <img alt="English" src="https://img.shields.io/badge/EN-English-lightgrey">
+  </a>
+</p>
+
 # 📊 DataViz Challenge - Data Analysis and Visualization
 
 🏆 **DataViz Challenge Future Lab** | 📅 [2021]
@@ -33,3 +42,6 @@ This project was developed for the **DataViz Challenge** competition, with the a
 
     git clone https://github.com/CamarenaAI/DataViz-Challenge.git
     cd DataViz-Challenge
+
+
+⚙️ [Alonso Ismael Camarena](https://www.linkedin.com/in/camarenaai/)
